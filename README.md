@@ -25,3 +25,26 @@ Deployment: Docker, Kubernetes, AWS, Heroku<br>
 Version Control & Collaboration:
 
 Git & GitHub: Branching strategies, Pull Requests, Code Reviews, CI/CD pipelines
+
+<h2>📚 Education</h2>
+
+1.  SSC In Science
+
+     Hazir hat T.A high school
+2. Diploma In Engineering 
+
+    computer science & Engineering
+    
+    Barishal polytechnic inistitute,Barisal
+
+<h2>Languages:</h2>
+
+ - Bangla
+ - English
+
+
+<h2>Sports/Game/Activities/Hobby:</h2>
+
+- cricekt🏏,Badminton🏸,Football⚽
+- swimming🏊🏻‍♂️,Running🏃‍♂️,walking🚶
+- Traveling✈️
