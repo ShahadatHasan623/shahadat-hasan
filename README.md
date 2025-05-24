@@ -37,10 +37,10 @@
 ### 📌 Pinned Projects:
 <p align="center">
   <a href="https://app.netlify.com/projects/gardening-app-store-a10/">
-    <img align="center" src="https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-ShahadatHasan623?tab=readme-ov-file#" />
+    <img align="center" src="https://i.ibb.co/DfDLswvT/Screenshot-2025-05-24-225152.png" />
   </a>
   <a href="https://bill-management-a9.netlify.app/">
-    <img align="center" src="https://github.com/programming-hero-web-course1/b11a9-react-authentication-ShahadatHasan623#" />
+    <img align="center" src="https://i.ibb.co/HfsjCxZ1/Screenshot-2025-05-24-225359.png" />
   </a>
 </p>
 
