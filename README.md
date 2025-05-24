@@ -37,7 +37,7 @@
 ### 📌 Pinned Projects:
 <p align="center">
   <a href="https://gardening-app-store-a10.netlify.app/">
-    <img align="center" src="https://i.ibb.co/DfDLswvT/Screenshot-2025-05-24-225152.png" />
+    <img align="center" src="hhttps://i.ibb.co/DfDLswvT/Screenshot-2025-05-24-225152.png" />
   </a>
   <a href="https://bill-management-a9.netlify.app/">
     <img align="center" src="https://i.ibb.co/HfsjCxZ1/Screenshot-2025-05-24-225359.png" />
