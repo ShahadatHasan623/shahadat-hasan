@@ -36,11 +36,9 @@
 
 ### 📌 Pinned Projects:
 <p align="center">
-  <a href="https://github.com/ShahadatHasan623/bank-bill-management">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShahadatHasan623&repo=bank-bill-management&theme=radical" />
-  </a>
-  <a href="https://github.com/ShahadatHasan623/portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShahadatHasan623&repo=portfolio&theme=radical" />
+ <a href="https://app.netlify.com/projects/gardening-app-store-a10/">
+</a>
+  <a href="https://bill-management-a9.netlify.app/">
   </a>
 </p>
 
