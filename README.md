@@ -68,9 +68,8 @@
 ---
 
 ### 📈 Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShahadatHasan623&theme=react-dark" alt="Contribution Graph" />
-</p>
+![Your GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=ShahadatHasan623&show_icons=true)
+
 
 ---
 
