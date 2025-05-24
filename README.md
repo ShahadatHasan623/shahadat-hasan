@@ -28,9 +28,9 @@
 ---
 
 ### 📚 My Learning Progress:
-- **React.js** ![Progress](https://progress-bar.dev/65/)
-- **Node.js** ![Progress](https://progress-bar.dev/50/)
-- **MongoDB** ![Progress](https://progress-bar.dev/40/)
+- 🚀 **React.js**: {{REACT_PROGRESS}}  
+- 🌐 **Node.js**: {{NODE_PROGRESS}}  
+- 🍃 **MongoDB**: {{MONGO_PROGRESS}}
 
 ---
 
