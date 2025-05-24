@@ -68,8 +68,7 @@
 ---
 
 ### 📈 Contribution Graph:
-![Your GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=ShahadatHasan623&show_icons=true)
-
+![Contribution graph](https://github.com/ShahadatHasan623.png?tab=overview)
 
 ---
 
